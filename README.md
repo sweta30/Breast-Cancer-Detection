@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection
+# Breast Cancer Detection
 Working with BreakHis dataset for breast cancer classification.
 
 Implemeted DenseNet169 by removing fully connected layer.
